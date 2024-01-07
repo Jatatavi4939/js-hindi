@@ -1,2 +1,2 @@
-# js-hindi
-js series
+# Js HINDI
+JS Series
